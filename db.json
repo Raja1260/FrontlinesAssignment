@@ -1,0 +1,405 @@
+
+{
+  "companies" : [
+  {
+    "id": "1",
+    "name": "AstraTech Solutions",
+    "location": "Bengaluru, India",
+    "industry": "Software",
+    "employees": 120,
+    "founded": 2015,
+    "website": "https://astratech.example",
+    "description": "Full-stack product engineering"
+  },
+  {
+    "id": "2",
+    "name": "GreenGrow Farms",
+    "location": "Pune, India",
+    "industry": "Agriculture",
+    "employees": 45,
+    "founded": 2010,
+    "website": "https://greengrow.example",
+    "description": "Sustainable farming and produce"
+  },
+  {
+    "id": "3",
+    "name": "BlueWave Media",
+    "location": "Mumbai, India",
+    "industry": "Media",
+    "employees": 60,
+    "founded": 2018,
+    "website": "https://bluewave.example",
+    "description": "Digital marketing and content creation"
+  },
+  {
+    "id": "4",
+    "name": "FinEdge Analytics",
+    "location": "Hyderabad, India",
+    "industry": "Finance",
+    "employees": 200,
+    "founded": 2012,
+    "website": "https://finedge.example",
+    "description": "Fintech analytics and risk modeling"
+  },
+  {
+    "id": "5",
+    "name": "Nimbus Cloud",
+    "location": "Chennai, India",
+    "industry": "Cloud",
+    "employees": 75,
+    "founded": 2016,
+    "website": "https://nimbus.example",
+    "description": "Cloud infra & managed services"
+  },
+  {
+    "id": "6",
+    "name": "UrbanRide",
+    "location": "Bengaluru, India",
+    "industry": "Transport",
+    "employees": 150,
+    "founded": 2014,
+    "website": "https://urbanride.example",
+    "description": "Last-mile mobility platform"
+  },
+  {
+    "id": "7",
+    "name": "OpenHealth",
+    "location": "Delhi, India",
+    "industry": "Health",
+    "employees": 95,
+    "founded": 2013,
+    "website": "https://openhealth.example",
+    "description": "Healthcare SaaS"
+  },
+  {
+    "id": "8",
+    "name": "EduSpark",
+    "location": "Jaipur, India",
+    "industry": "Education",
+    "employees": 22,
+    "founded": 2019,
+    "website": "https://eduspark.example",
+    "description": "K12 learning platform"
+  },
+  {
+    "id": "9",
+    "name": "Solaris Energy",
+    "location": "Ahmedabad, India",
+    "industry": "Energy",
+    "employees": 300,
+    "founded": 2008,
+    "website": "https://solaris.example",
+    "description": "Solar installations & consulting"
+  },
+  {
+    "id": "10",
+    "name": "Craftsy Studio",
+    "location": "Kochi, India",
+    "industry": "Design",
+    "employees": 12,
+    "founded": 2020,
+    "website": "https://craftsy.example",
+    "description": "Product & UI design studio"
+  },
+  {
+    "id": "11",
+    "name": "AquaPure",
+    "location": "Pune, India",
+    "industry": "WaterTech",
+    "employees": 48,
+    "founded": 2011,
+    "website": "https://aquapureservices.in/",
+    "description": "Water purification solutions"
+  },
+  {
+    "id": "12",
+    "name": "ByteScale",
+    "location": "Bengaluru, India",
+    "industry": "Software",
+    "employees": 210,
+    "founded": 2010,
+    "website": "https://bytescale.example",
+    "description": "Backend platforms & APIs"
+  },
+  {
+    "id": "13",
+    "name": "WellNest",
+    "location": "Mumbai, India",
+    "industry": "Health",
+    "employees": 88,
+    "founded": 2017,
+    "website": "https://wellnest.example",
+    "description": "Mental wellness & therapy app"
+  },
+  {
+    "id": "14",
+    "name": "ParcelQuick",
+    "location": "Gurgaon, India",
+    "industry": "Logistics",
+    "employees": 420,
+    "founded": 2009,
+    "website": "https://parcelquick.example",
+    "description": "Ecommerce logistics"
+  },
+  {
+    "id": "15",
+    "name": "AgileBuild",
+    "location": "Noida, India",
+    "industry": "Construction",
+    "employees": 60,
+    "founded": 2014,
+    "website": "https://agilebuild.example",
+    "description": "Smart construction tech"
+  },
+  {
+    "id": "16",
+    "name": "LoopAI",
+    "location": "Bengaluru, India",
+    "industry": "Artificial Intelligence",
+    "employees": 130,
+    "founded": 2019,
+    "website": "https://loopai.example",
+    "description": "AI & ML services"
+  },
+  {
+    "id": "17",
+    "name": "FreshBites",
+    "location": "Chennai, India",
+    "industry": "Food",
+    "employees": 30,
+    "founded": 2021,
+    "website": "https://freshbites.example",
+    "description": "Healthy meal subscriptions"
+  },
+  {
+    "id": "18",
+    "name": "SecureNet",
+    "location": "Hyderabad, India",
+    "industry": "Security",
+    "employees": 160,
+    "founded": 2012,
+    "website": "https://securenet.example",
+    "description": "Network & application security"
+  },
+  {
+    "id": "19",
+    "name": "EcoPack",
+    "location": "Surat, India",
+    "industry": "Packaging",
+    "employees": 55,
+    "founded": 2016,
+    "website": "https://ecopack.example",
+    "description": "Biodegradable packaging"
+  },
+  {
+    "id": "20",
+    "name": "RentWise",
+    "location": "Bengaluru, India",
+    "industry": "Real Estate",
+    "employees": 70,
+    "founded": 2013,
+    "website": "https://rentwise.example",
+    "description": "Property management platform"
+  },
+  {
+    "id": "21",
+    "name": "NextGen Robotics",
+    "location": "Bengaluru, India",
+    "industry": "Robotics",
+    "employees": 110,
+    "founded": 2018,
+    "website": "https://nextgenrobotics.example",
+    "description": "Industrial & service robots"
+  },
+  {
+    "id": "22",
+    "name": "FarmTech Solutions",
+    "location": "Indore, India",
+    "industry": "Agriculture",
+    "employees": 65,
+    "founded": 2012,
+    "website": "https://farmtech.example",
+    "description": "IoT solutions for smart farms"
+  },
+  {
+    "id": "23",
+    "name": "BrightEdu",
+    "location": "Hyderabad, India",
+    "industry": "Education",
+    "employees": 35,
+    "founded": 2017,
+    "website": "https://brightedu.example",
+    "description": "Online tutoring & courses"
+  },
+  {
+    "id": "24",
+    "name": "CyberShield",
+    "location": "Pune, India",
+    "industry": "Cybersecurity",
+    "employees": 90,
+    "founded": 2014,
+    "website": "https://cybershield.example",
+    "description": "Enterprise security solutions"
+  },
+  {
+    "id": "25",
+    "name": "GreenTech Energy",
+    "location": "Ahmedabad, India",
+    "industry": "Energy",
+    "employees": 280,
+    "founded": 2010,
+    "website": "https://greentech.example",
+    "description": "Renewable energy solutions"
+  },
+  {
+    "id": "26",
+    "name": "MediQuick",
+    "location": "Mumbai, India",
+    "industry": "Health",
+    "employees": 120,
+    "founded": 2015,
+    "website": "https://mediquick.example",
+    "description": "On-demand healthcare services"
+  },
+  {
+    "id": "27",
+    "name": "SmartWare Labs",
+    "location": "Bengaluru, India",
+    "industry": "Software",
+    "employees": 220,
+    "founded": 2011,
+    "website": "https://smartware.example",
+    "description": "Enterprise software & SaaS"
+  },
+  {
+    "id": "28",
+    "name": "PackWell",
+    "location": "Surat, India",
+    "industry": "Packaging",
+    "employees": 50,
+    "founded": 2013,
+    "website": "https://packwell.example",
+    "description": "Eco-friendly packaging solutions"
+  },
+  {
+    "id": "29",
+    "name": "TravelMate",
+    "location": "Goa, India",
+    "industry": "Travel",
+    "employees": 40,
+    "founded": 2019,
+    "website": "https://travelmate.example",
+    "description": "Travel booking & experiences"
+  },
+  {
+    "id": "30",
+    "name": "RoboFleet",
+    "location": "Chennai, India",
+    "industry": "Robotics",
+    "employees": 95,
+    "founded": 2016,
+    "website": "https://robofleet.example",
+    "description": "Autonomous delivery robots"
+  },
+  {
+    "id": "31",
+    "name": "SkillBoost",
+    "location": "Delhi, India",
+    "industry": "Education",
+    "employees": 28,
+    "founded": 2020,
+    "website": "https://skillboost.example",
+    "description": "Corporate upskilling platform"
+  },
+  {
+    "id": "32",
+    "name": "FinTechPro",
+    "location": "Gurgaon, India",
+    "industry": "Finance",
+    "employees": 180,
+    "founded": 2012,
+    "website": "https://fintechpro.example",
+    "description": "Digital payment & lending platform"
+  },
+  {
+    "id": "33",
+    "name": "EcoMove",
+    "location": "Bengaluru, India",
+    "industry": "Transport",
+    "employees": 140,
+    "founded": 2015,
+    "website": "https://ecomove.example",
+    "description": "Electric vehicle rentals"
+  },
+  {
+    "id": "34",
+    "name": "CloudSphere",
+    "location": "Hyderabad, India",
+    "industry": "Cloud",
+    "employees": 130,
+    "founded": 2013,
+    "website": "https://cloudsphere.example",
+    "description": "Cloud migration & management"
+  },
+  {
+    "id": "35",
+    "name": "AquaHarvest",
+    "location": "Kochi, India",
+    "industry": "WaterTech",
+    "employees": 42,
+    "founded": 2016,
+    "website": "https://aquaharvest.example",
+    "description": "Water conservation solutions"
+  },
+  {
+    "id": "36",
+    "name": "NextWave Media",
+    "location": "Mumbai, India",
+    "industry": "Media",
+    "employees": 70,
+    "founded": 2018,
+    "website": "https://nextwave.example",
+    "description": "Video content & streaming"
+  },
+  {
+    "id": "37",
+    "name": "BuildSmart",
+    "location": "Noida, India",
+    "industry": "Construction",
+    "employees": 65,
+    "founded": 2014,
+    "website": "https://buildsmart.example",
+    "description": "AI-driven construction management"
+  },
+  {
+    "id": "38",
+    "name": "GreenLeaf Foods",
+    "location": "Chennai, India",
+    "industry": "Food",
+    "employees": 35,
+    "founded": 2019,
+    "website": "https://greenleaf.example",
+    "description": "Organic meal subscriptions"
+  },
+  {
+    "id": "39",
+    "name": "Insight Analytics",
+    "location": "Bengaluru, India",
+    "industry": "Data Analytics",
+    "employees": 150,
+    "founded": 2011,
+    "website": "https://insightanalytics.example",
+    "description": "Business intelligence & analytics"
+  },
+  {
+    "id": "40",
+    "name": "ParcelFlow",
+    "location": "Gurgaon, India",
+    "industry": "Logistics",
+    "employees": 400,
+    "founded": 2009,
+    "website": "https://parcelflow.example",
+    "description": "Last-mile delivery services"
+  }
+]
+}
